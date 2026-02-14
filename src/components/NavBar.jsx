@@ -9,7 +9,7 @@ function Navbar() {
 
   return (
     <nav className="flex justify-between items-center p-4 shadow bg-white dark:bg-gray-800 dark:text-white">
-      <h1 className="text-xl font-bold">PakMart</h1>
+      <h1 className="text-xl font-bold">SohaibMart</h1>
 
       <div className="flex items-center gap-4">
         <button
